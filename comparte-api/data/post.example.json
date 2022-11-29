@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "dui": "000000-01",
+      "nombre": "Fernando Figueroa",
+      "correo": "fernandofigueroa1@gmail.com",
+      "tipoSangre": "ORH+",
+      "genero": "Masculino",
+      "fechaNacimiento": "17/07/2003",
+      "telefono": "0000-0000",
+      "nombreEmergencia": "Diego Viana",
+      "telefonoEmergencia": "0000-0001"
+    },
+    {
+      "id": "02",
+      "dui": "000000-02",
+      "nombre": "Claudia Grande",
+      "correo": "claugr1@gmail.com",
+      "tipoSangre": "ORH-",
+      "genero": "Femenino",
+      "fechaNacimiento": "13/03/2003",
+      "telefono": "0000-0022",
+      "nombreEmergencia": "Diego Viana",
+      "telefonoEmergencia": "0000-0002"
+    },
+    {
+      "id": "03",
+      "dui": "000000-03",
+      "nombre": "Diego Viana",
+      "correo": "dviana@gmail.com",
+      "tipoSangre": "ORH+",
+      "genero": "Masculino",
+      "fechaNacimiento": "1/07/2003",
+      "telefono": "0000-0033",
+      "nombreEmergencia": "Fernando Figueroa",
+      "telefonoEmergencia": "0000-0003"
+    }
+  ]
