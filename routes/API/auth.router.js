@@ -12,7 +12,7 @@ router.post("/signup",
   authController.register
 );
 
-router.get("/signin", 
+router.post("/signin", 
   authController.login);
 
 router.post("/signinGoogle", 
